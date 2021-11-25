@@ -37,6 +37,17 @@
       font-family: 'Nanum Gothic Coding', monospace;
     }
 
+    #main_button {
+      justify-content: left;
+      width: 223px;
+      height: 45px;
+      font-size: 30px;
+      font-family: 'Nanum Gothic Coding', monospace;
+      border: 0;
+      outline: 0;
+      background-color: white;
+    }
+
     .five {
       flex: 1;
       text-align: center;
