@@ -7,10 +7,10 @@ function alert_() {
 }
 
 function otaku() {
-  if(confirm("정말 이곳으로 들어오시겠습니까?")) {
-    alert("돌아오신걸 환영합니다")
+  if(confirm("마왕성 앞이다. 정말 들어갈까?")) {
+    alert("마왕을 물리치고 이 세상의 평화를 되찾겠어!")
   }
   else {
-    alert("시간이 지난 후 다시 찾아와주세요")
+    alert("아직 준비가 덜 되었다. 다음에 다시 찾아오자.")
   }
 }
